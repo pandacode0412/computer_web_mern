@@ -1,0 +1,14 @@
+.custom-selectbox-frame{
+  display: flex;
+  flex-direction: column;
+
+  select {
+    height: 35px;
+    border-radius: 4px;
+  }
+
+  label {
+    font-size: 18px;
+    font-weight: 600;
+  }
+}
